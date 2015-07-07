@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76fd7f2d-2ffc-4c91-8786-8e9e47da6bbd" name="Default" comment="" />
+    <list default="true" id="76fd7f2d-2ffc-4c91-8786-8e9e47da6bbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="babati1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +28,7 @@
       <file leaf-file-name="sports.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sports.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="223" selection-end="223" vertical-scroll-proportion="-0.0" vertical-offset="162" max-vertical-offset="486">
+            <state line="9" column="30" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
@@ -62,7 +64,7 @@
       <file leaf-file-name="tourism.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tourism.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="486">
+            <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="3762">
               <folding />
             </state>
           </provider>
@@ -78,7 +80,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.37894738" vertical-offset="972" max-vertical-offset="4572">
+            <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.28421053" vertical-offset="1026" max-vertical-offset="4572">
               <folding />
             </state>
           </provider>
@@ -87,7 +89,7 @@
       <file leaf-file-name="infrastructure.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/infrastructure.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="4932">
+            <state line="9" column="24" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="8730">
               <folding />
             </state>
           </provider>
@@ -105,7 +107,7 @@
       <file leaf-file-name="health.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="52" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
+            <state line="9" column="52" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="738">
               <folding />
             </state>
           </provider>
@@ -117,6 +119,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -236,18 +241,24 @@
       <created>1435043387812</created>
       <updated>1435043387812</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/kelvinmbwilo/babati&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
+      <created>1436285920442</created>
+      <updated>1436285920442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25184688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25520483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -274,6 +285,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Merge branch 'master' of https://github.com/kelvinmbwilo/babati&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/kelvinmbwilo/babati&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -281,9 +294,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/natural_resources.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infrastructure.php">
@@ -344,16 +355,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/water.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="369" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="576">
-          <folding />
-        </state>
+        <state line="14" column="20" selection-start="369" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="576" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/natural_resources.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infrastructure.php">
@@ -515,9 +522,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/natural_resources.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.php">
@@ -543,7 +548,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tourism.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="486">
+        <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="3762">
           <folding />
         </state>
       </provider>
@@ -569,9 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/water.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.7403509" vertical-offset="172" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.7403509" vertical-offset="172" max-vertical-offset="918" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/mkiti.JPG">
@@ -581,7 +584,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.37894738" vertical-offset="972" max-vertical-offset="4572">
+        <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.28421053" vertical-offset="1026" max-vertical-offset="4572">
           <folding />
         </state>
       </provider>
