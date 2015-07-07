@@ -26,7 +26,7 @@
       <file leaf-file-name="sports.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sports.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
+            <state line="9" column="30" selection-start="223" selection-end="223" vertical-scroll-proportion="-0.0" vertical-offset="162" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
@@ -62,25 +62,23 @@
       <file leaf-file-name="tourism.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tourism.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
+            <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="water.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/water.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.6160584" vertical-offset="172" max-vertical-offset="918">
-              <folding />
-            </state>
+      <file leaf-file-name="mkiti.JPG" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/mkiti.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="natural_resources.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/natural_resources.php">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
+            <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.37894738" vertical-offset="972" max-vertical-offset="4572">
               <folding />
             </state>
           </provider>
@@ -131,7 +129,6 @@
         <option value="$PROJECT_DIR$/vision.php" />
         <option value="$PROJECT_DIR$/organization.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/agriculture.php" />
         <option value="$PROJECT_DIR$/top.php" />
         <option value="$PROJECT_DIR$/contacts.php" />
@@ -145,15 +142,16 @@
         <option value="$PROJECT_DIR$/tourism.php" />
         <option value="$PROJECT_DIR$/infrastructure.php" />
         <option value="$PROJECT_DIR$/water.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1535" />
-    <option name="height" value="904" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -181,6 +179,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,11 +200,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LLIN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
@@ -241,15 +239,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1535" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1474359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25184688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -257,11 +255,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -281,13 +279,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/water.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/natural_resources.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="41" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
@@ -483,11 +474,6 @@
         <state line="39" column="52" selection-start="1917" selection-end="1917" vertical-scroll-proportion="0.0" vertical-offset="429" max-vertical-offset="1386" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="90" selection-start="8300" selection-end="8300" vertical-scroll-proportion="0.6569343" vertical-offset="1998" max-vertical-offset="4572" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vision.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="301" selection-start="1634" selection-end="1634" vertical-scroll-proportion="-12.666667" vertical-offset="108" max-vertical-offset="1026" />
@@ -557,7 +543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tourism.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="486">
+        <state line="9" column="31" selection-start="224" selection-end="224" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="486">
           <folding />
         </state>
       </provider>
@@ -583,7 +569,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/water.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.6160584" vertical-offset="172" max-vertical-offset="918">
+        <state line="33" column="144" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.7403509" vertical-offset="172" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/mkiti.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="46" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.37894738" vertical-offset="972" max-vertical-offset="4572">
           <folding />
         </state>
       </provider>
