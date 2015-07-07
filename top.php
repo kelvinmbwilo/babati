@@ -58,7 +58,7 @@
     <div id="stuck_container">
         <div class="container">
             <h1>
-                <a href="index11.html">
+                <a href="index.php">
                     <img src="images/logo.png" >
                 </a>
             </h1>
@@ -70,17 +70,17 @@
                             <li><a href="about_us.php">About</a></li>
                             <li><a href="organization.php">Organization Structure</a></li>
                             <li><a href="vision.php">Vision and Mission</a></li>
-                            <li><a href="#">Councilors</a></li>
-                            <li><a href="#">Projects</a>
-                                <ul>
-                                    <li><a href="#">PEDP</a></li>
-                                    <li><a href="#">TASAF</a></li>
-                                    <li><a href="#">MEM</a></li>
-                                    <li><a href="#">SEDP</a></li>
-                                    <li><a href="#">DAPDS</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="publications.php">Publications</a></li>
+<!--                            <li><a href="#">Councilors</a></li>-->
+<!--                            <li><a href="#">Projects</a>-->
+<!--                                <ul>-->
+<!--                                    <li><a href="#">PEDP</a></li>-->
+<!--                                    <li><a href="#">TASAF</a></li>-->
+<!--                                    <li><a href="#">MEM</a></li>-->
+<!--                                    <li><a href="#">SEDP</a></li>-->
+<!--                                    <li><a href="#">DAPDS</a></li>-->
+<!--                                </ul>-->
+<!--                            </li>-->
+<!--                            <li><a href="publications.php">Publications</a></li>-->
                         </ul>
                     </li>
                     <li><a href="#">Services</a>
@@ -89,7 +89,7 @@
                             <li><a href="water.php">Water</a></li>
                             <li><a href="education.php">Education</a></li>
                             <li><a href="health.php">Health</a></li>
-                            <li><a href="sports.php">Sports</a></li>
+<!--                            <li><a href="sports.php">Sports</a></li>-->
                         </ul>
                     </li>
                     <!--<li><a href="#">Councilors</a></li>-->
@@ -99,9 +99,9 @@
                     <li><a href="#">Investments</a>
                         <ul>
                             <li><a href="agriculture.php">Agriculture</a></li>
-                            <li><a href="industries.php">Industries</a></li>
+<!--                            <li><a href="industries.php">Industries</a></li>-->
                             <li><a href="infrastructure.php">Economic Infrastructure</a></li>
-                            <li><a href="natural_resources.php">Natural Resources</a></li>
+<!--                            <li><a href="natural_resources.php">Natural Resources</a></li>-->
                             <li><a href="tourism.php">Tourism</a></li>
                         </ul>
                     </li>

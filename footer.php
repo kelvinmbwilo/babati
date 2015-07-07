@@ -30,18 +30,18 @@
                         <li><a href="about_us.php">About Us</a></li>
                         <li><a href="vision.php">Vision and Mission</a></li>
                         <li><a href="organization.php">Organization Structure</a></li>
-                        <li><a href="#">Strategic plan</a></li>
-                        <li><a href="#">FAQ </a></li>
+<!--                        <li><a href="#">Strategic plan</a></li>-->
+<!--                        <li><a href="#">FAQ </a></li>-->
                     </ul>
                 </div>
                 <div class="grid_3 mar_t_15 s14">
                     <h4>Services</h4>
                     <ul class='list_1 mar_t_1'>
                         <li><a href="agriculture.php">Agriculture</a></li>
-                        <li><a href="#">Water</a></li>
-                        <li><a href="#">Education</a></li>
-                        <li><a href="#">Livestock</a></li>
-                        <li><a href="#">Health</a></li>
+                        <li><a href="water.php">Water</a></li>
+                        <li><a href="education.php">Education</a></li>
+<!--                        <li><a href="">Livestock</a></li>-->
+                        <li><a href="health.php">Health</a></li>
                     </ul>
                 </div>
                 <div class="grid_3 mar_t_15 s14">
@@ -57,11 +57,11 @@
                 <div class="grid_3 mar_t_15 s12">
                     <h4>Investiments</h4>
                     <ul class='list_1 mar_t_1'>
-                        <li><a href="#">Agriculture</a></li>
-                        <li><a href="#">Industries</a></li>
-                        <li><a href="#">Economic Infrastructure</a></li>
-                        <li><a href="#">Natural Resources</a></li>
-                        <li><a href="#">Tourism</a></li>
+                        <li><a href="agriculture.php">Agriculture</a></li>
+<!--                        <li><a href="#">Industries</a></li>-->
+                        <li><a href="infrastructure.php">Economic Infrastructure</a></li>
+<!--                        <li><a href="#">Natural Resources</a></li>-->
+                        <li><a href="tourism.php">Tourism</a></li>
                     </ul>
                 </div>
             </div>
