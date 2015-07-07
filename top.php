@@ -64,7 +64,7 @@
             </h1>
             <nav id="mainNav">
                 <ul class="sf-menu">
-                    <li class="current"><a href="index11.html"><i class="fa fa-home"></i> Home</a></li>
+                    <li class="current"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li><a href="#">About Us</a>
                         <ul>
                             <li><a href="about_us.php">About</a></li>
