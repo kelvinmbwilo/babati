@@ -14,17 +14,17 @@ include 'top.php';
                 <div class="grid_1 mar_t_3 s10"></div>
                 <div class="grid_3 mar_t_3 s10">
                     <img class="" src="images/MKURUGENZIOMARIMKOMBOLE.JPG" alt=""/>
-                    <p class="p3"><span><em>01</em></span><em style="font-size: 14px">Bw. Omary Mkombole</em></p>
+                    <p class="p3"><span><em>01</em></span><em style="font-size: 14px">Bw. Omari Mkombole</em></p>
                     <p class="p_pad">Mkurugenzi</p>
                 </div>
                 <div class="grid_3 mar_t_3 s11">
-                    <img class="" src="images/babatiLogo.png" alt=""/>
-                    <p class="p3"><span><em>02</em></span><em style="font-size: 14px">Mwenyekiti</em></p>
+                    <img class="" src="images/mkiti.jpg" alt=""/>
+                    <p class="p3"><span><em>02</em></span><em style="font-size: 14px">Mh. Mohamed Omari Farah</em></p>
                     <p class="p_pad"> Mwenyekiti</p>
                 </div>
                 <div class="grid_3 mar_t_3 s12">
-                    <img class="" src="images/babatiLogo.png" alt=""/>
-                    <p class="p3"><span><em>03</em></span><em style="font-size: 14px">Mbunge</em></p>
+                    <img class="" src="images/mbunge.png" alt=""/>
+                    <p class="p3"><span><em>03</em></span><em style="font-size: 14px">Mh. Kisyeri Chambiri</em></p>
                     <p class="p_pad">Mbunge</p>
                 </div>
                 <div class="grid_1 mar_t_3 s10"></div>

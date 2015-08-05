@@ -62,9 +62,21 @@
                     <img src="images/logo.png" >
                 </a>
             </h1>
+
             <nav id="mainNav">
+
                 <ul class="sf-menu">
-                    <li class="current"><a href="index11.html"><i class="fa fa-home"></i> Home</a></li>
+                    <li>
+                        <div id="google_translate_element" style="padding-right:100px;"></div>
+
+                        <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+                            }
+                        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+                    </li>
+                    <li class="current"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li><a href="#">About Us</a>
                         <ul>
                             <li><a href="about_us.php">About</a></li>

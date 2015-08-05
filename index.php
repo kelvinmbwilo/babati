@@ -63,13 +63,13 @@
                     </div>
                     <div class="grid_3 mar_t_3 pad_b_3 s5">
                         <p class="p3 ind_1"><span></span><em>Mwenyekiti</em></p>
-                        <a href="#" class='a1 mar_t_25'>Daniel Luther</a>
-                        <img src="images/mkiti.JPG">
+                        <a href="#" class='a1 mar_t_25'>Mh. Mohamed Omari Farah</a>
+                        <img src="images/mkiti.jpg">
                     </div>
                     <div class="grid_3 mar_t_3 pad_b_3 s6">
                         <p class="p3 ind_2"><span></span><em>Mbunge</em></p>
-                        <a href="#" class='a1 mar_t_25'>Bi. Nivoneia Levery</a>
-                        <img src="images/mbunge.JPG">
+                        <a href="#" class='a1 mar_t_25'>Mh. Kisyeri Chambiri</a>
+                        <img src="images/mbunge.png">
                     </div>
                     <div class="grid_3 mar_t_3 pad_b_3 s7">
                         <p class="p3 ind_3"><span></span><em>Kata na Vijiji</em></p>
